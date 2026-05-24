@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TOKENSMPop34.aternos.me",
-    "port": 58153,
+    "ip": "tokenlegacy.aternos.me",
+    "port": 27645,
     "version": "1.20.1",
     "try-creative": false
   },
